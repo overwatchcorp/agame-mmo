@@ -1,0 +1,24 @@
+{
+  "name": "agame-mmo",
+  "version": "1.0.0",
+  "description": "pacman but its an mmo",
+  "main": "bin/socket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://overwatchcorp@github.com/overwatchcorp/agame-mmo.git"
+  },
+  "author": "Jasper Fung <contact@jasperfung.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/overwatchcorp/agame-mmo/issues"
+  },
+  "homepage": "https://github.com/overwatchcorp/agame-mmo#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4",
+    "uuid": "^3.1.0"
+  }
+}
